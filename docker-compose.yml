@@ -1,7 +1,7 @@
 version: '3'
 services:
   movies:
-    image: krishnapanda02/moviespaytm:latest
+    image: krishnapanda02/moviepaytm:latest
     ports:
       - "81:80"
     deploy:
